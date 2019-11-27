@@ -13,4 +13,8 @@ _In order to use Emotion Mapper fully, please also download the [Emotion Mapper 
 ```
 ## Getting Started
 
-In order to use this component of Emotion Mapper Tool, first make sure you have Node installed
+To use this component of Emotion Mapper, once downloaded, run the following command in the terminal
+**Temporary, to be changed once fully complete**
+```
+gatsby develop
+```
