@@ -1,5 +1,5 @@
 <h1>
-  Emotion Mapper Tool - Admin Interface
+  Emotion Mapper Tool - Admin Interface - Prototype
 </h1>
 
 # Overview
