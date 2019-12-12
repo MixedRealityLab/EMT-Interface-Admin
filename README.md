@@ -3,7 +3,7 @@
 </h1>
 
 # Overview
-_In order to use Emotion Mapper fully, please also download the [Emotion Mapper Server](https://github.com/EdgarBodiaj/EMT-Storage) and the [Emotion Mapper User Front End](https://github.com/EdgarBodiaj/EMT-Interface-User)
+In order to use Emotion Mapper fully, please also download the [Emotion Mapper Server](https://github.com/EdgarBodiaj/EMT-Storage) and the [Emotion Mapper User Front End](https://github.com/EdgarBodiaj/EMT-Interface-User)
 
 ## Requirement
 ```
