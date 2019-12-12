@@ -147,7 +147,9 @@ export default class VisGenChart extends Component{
                             }
                         
                         size={this.props.group ? 12 : 8}
-                        
+                        bubbleProperty="items"
+                        maxBubbleSize={this.props.group ? 40 : 20}
+                        minBubbleSize={this.props.group ? 8 : 5}
                     />
                 </VictoryChart>
         )

@@ -1,5 +1,5 @@
 import React, {Component} from "react"
-import Login from '../components/login'
+import Collection from './collections/collections'
 
 
 export default class Home extends Component{
@@ -7,7 +7,7 @@ export default class Home extends Component{
     render(){
         return(
             <div>
-                <Login />
+                <Collection />
             </div>
         )
     }
