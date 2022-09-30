@@ -36,7 +36,7 @@
     "styled-components": "^4.4.1",
     "underscore": "^1.9.1",
     "upgrade": "^1.1.0",
-    "victory": "^32.3.7"
+    "victory": "^36.6.8"
   },
   "devDependencies": {
     "prettier": "^1.19.1"
